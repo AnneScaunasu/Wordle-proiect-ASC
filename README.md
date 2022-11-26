@@ -1,7 +1,7 @@
 # Wordle-proiect-ASC
 ## Echipa
--Scaunasu Anne-Marie (Grupa 144)
--Grosu Andreea (Grupa 144)
+<p>-Scaunasu Anne-Marie (Grupa 144)</p>
+<p>-Grosu Andreea (Grupa 144)</p>
 ## Scurta descriere
 <p>1)Programul "game.py" este jocul Wordle! care poate fi jucat de un player cu un numar nelimitat de incercari.</p>
 <p>2)Programul "wordle.py" ofera posibilitatea de a da algoritmului un cuvant sa il gaseasca in cat mai putine incercari (sau nu), apoi scrie intr-un fisier toate cuvintele si incercarile corespunzatoare pentru a-l gasi. Acest program isi termina rularea in aproximativ 20 de minute,iar la final scrie si media de incercari care este 4,46.</p>
