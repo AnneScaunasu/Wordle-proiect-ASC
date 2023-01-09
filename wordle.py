@@ -177,7 +177,7 @@ for x in v:
     in_cuv4 = []
     not_in_cuv = set()
     g.write(str("".join(x)))
-    g.write(': ')
+    g.write(', ')
     j=0
     while True:
         if j == 0:
@@ -218,9 +218,8 @@ for x in v:
         g.write(str("".join(CUVANT)))
         if CUVANT == x:
             nr = nr+j+1
-            g.write(f" ({j + 1} incercari)\n")
             break
-        g.write(" -> ")
+        g.write(", ")
         for i in range(5):
             if CUVANT[i] == x[i]:
                 corect[i] = CUVANT[i]
